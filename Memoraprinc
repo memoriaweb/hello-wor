@@ -1,0 +1,5 @@
+Apt update
+Apt upgrade 
+Apt install python 
+Apt install python2 
+Apt install git 
